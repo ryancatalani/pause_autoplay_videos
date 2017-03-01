@@ -1,26 +1,4 @@
-console.log('pausevideo loaded');
-
-// pageLoaded();
-
-// window.onpopstate = function() {
-// 	console.log('popstate');
-// 	pageLoaded();
-// }
-
-// function pageLoaded() {
-// 	window.addEventListener("load", function(){
-// 		console.log('all loaded');
-// 		pauseVideo();
-// 	}, false);	
-// }
-
-// window.addEventListener("DOMContentLoaded", function() {
-// 	var metas = document.getElementsByTagName('meta');
-// 	var links = document.getElementsByTagName('link');
-
-// 	gannett-cdn
-// });
-
+// console.log('pausevideo loaded');
 
 // via http://ryanmorr.com/using-mutation-observers-to-watch-for-element-availability/
 (function(win) {
