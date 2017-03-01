@@ -4,7 +4,7 @@ Videos that play automatically upon loading are annoying. This simple Chrome ext
 
 ## Installation
 
-Download `pause_autoplay_video.crx` and open it to install in Chrome.
+Download [`pause_autoplay_video.crx`](https://github.com/ryancatalani/pause_autoplay_videos/blob/master/pause_autoplay_video.crx?raw=true) and open it to install in Chrome.
 
 ## License: MIT
 
