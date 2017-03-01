@@ -1,0 +1,21 @@
+{
+  "name": "Pause HTML5 Video Autoplay",
+  "description": "Pauses HTML5 videos that try to play automatically.",
+  "version": "2.0",
+  "permissions": [
+    "tabs"
+  ],
+  "content_scripts": [{
+      "js": ["contentscript.js"],
+      "matches": ["http://*/*"]
+  }],
+  "web_accessible_resources": [
+    "pausevideo.js"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "manifest_version": 2
+}
